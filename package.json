@@ -1,0 +1,12 @@
+{
+  "name": "service-sidecar-lifecycle-upgrade-planner",
+  "version": "1.0.0",
+  "description": "Offline planner for service mesh sidecar upgrade, traffic drain and orphan proxy cleanup",
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
